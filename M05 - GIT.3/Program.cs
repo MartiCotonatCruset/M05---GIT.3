@@ -10,6 +10,7 @@ namespace M05___GIT._3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HELLO MONTILIVI!!");
         }
     }
 }
